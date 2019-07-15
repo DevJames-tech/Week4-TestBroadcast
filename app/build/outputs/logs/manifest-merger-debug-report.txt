@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:1-35:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ed0f65ced4a39d46c78c0e19421b697/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/consultant/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9a9bb69c597d01d176fd1f8f1b65b6c8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5904c5cd2d53d1aafda064ec66fb8992/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/197eb80d4e90ceb8830137f6f125e876/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e3ae0a05f565cde33633f478c9d14ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2c431a000a33697e6209b2e64cf3cad6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/19e0642c1bdd8d740d26b82837a1d36e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/496001c792efc226bf74eece3b9de5ba/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9dad2a2d04082a06a180b4e4e086b718/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/33ce7ffe92bd10adfbba340a953a8bec/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cfadc816533db3c3f2980ae9a9d41620/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cc307fe3032acd459e3336ca3b5b36e6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:1-35:12
+	package
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:17:5-53
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:1-35:12
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:1-35:12
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:19:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/consultant/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9a9bb69c597d01d176fd1f8f1b65b6c8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/consultant/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9a9bb69c597d01d176fd1f8f1b65b6c8/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.android.fundamentals.powerreceiver.MainActivity
+ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ed0f65ced4a39d46c78c0e19421b697/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ed0f65ced4a39d46c78c0e19421b697/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/consultant/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9a9bb69c597d01d176fd1f8f1b65b6c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/consultant/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9a9bb69c597d01d176fd1f8f1b65b6c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5904c5cd2d53d1aafda064ec66fb8992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5904c5cd2d53d1aafda064ec66fb8992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/197eb80d4e90ceb8830137f6f125e876/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/197eb80d4e90ceb8830137f6f125e876/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e3ae0a05f565cde33633f478c9d14ee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e3ae0a05f565cde33633f478c9d14ee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2c431a000a33697e6209b2e64cf3cad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2c431a000a33697e6209b2e64cf3cad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/19e0642c1bdd8d740d26b82837a1d36e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/19e0642c1bdd8d740d26b82837a1d36e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/496001c792efc226bf74eece3b9de5ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/consultant/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/496001c792efc226bf74eece3b9de5ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9dad2a2d04082a06a180b4e4e086b718/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9dad2a2d04082a06a180b4e4e086b718/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/33ce7ffe92bd10adfbba340a953a8bec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/33ce7ffe92bd10adfbba340a953a8bec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cfadc816533db3c3f2980ae9a9d41620/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cfadc816533db3c3f2980ae9a9d41620/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cc307fe3032acd459e3336ca3b5b36e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/consultant/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cc307fe3032acd459e3336ca3b5b36e6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/consultant/Documents/Week4-Test Broadcast/app/src/main/AndroidManifest.xml
